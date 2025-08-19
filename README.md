@@ -29,21 +29,10 @@ WanderHome offers users the ability to explore and book accommodations in variou
 - 🔌 RESTful API integration for seamless frontend-backend communication
 
 
-# ⚙️ Installation
-
----
+# 🛠️ Installation
 
 ```bash
-git clone [https://github.com/Kanishkgour/sigmagpt.git](https://github.com/Kanishkgour/sigmagpt.git)
-cd sigmagpt
+git clone https://github.com/codyvaibhav/yourgpt-Project.git
+cd yourgpt
 npm install
 ```
-Once the application is running, you can:
-
-<li>Create new chat.</li>
-<li>See previous chats.</li>
-<li>Delete a chat.</li>
-
-
-<h2>License</h2>
-All rights reserved.
