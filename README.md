@@ -38,12 +38,3 @@ git clone [https://github.com/Kanishkgour/sigmagpt.git](https://github.com/Kanis
 cd sigmagpt
 npm install
 ```
-Once the application is running, you can:
-
-<li>Create new chat.</li>
-<li>See previous chats.</li>
-<li>Delete a chat.</li>
-
-
-<h2>License</h2>
-All rights reserved.
