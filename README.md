@@ -1,49 +1,31 @@
-<h1>SigmaGPT</h1>
-<h2>Overview</h2>
+# WanderHome 🏡
 This is a full-stack conversational AI chatbot inspired by ChatGPT, designed to provide users with a seamless and efficient experience. This project leverages modern technologies and is scalable, flexible, and designed for real-world use cases.
 
-<h2>Table of Contents</h2>
-<li>Overview</li>
-<li>Tech Stack</li>
-<li>Features</li>
-<li>Installation</li>
-<li>Usage</li>
-<li>Testing</li>
-<li>Deployment</li>
-<li>License</li>
+# 🚀 Live Demo
+Click to view the site-> https://vaibhav-wonderhome.onrender.com
 
-<h2>Tech Stack</h2>
-<h3>Frontend</h3>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>React</li>
-<li>Bootstrap</li>
-<li>Material UI</li>
+---
 
-<h3>Backend</h3>
-<li>Node.js</li>
-<li>Express.js</li>
+# 🌍 About the Project
+WanderHome offers users the ability to explore and book accommodations in various locations worldwide. It's built with a focus on:
 
-<h3>Database</h3>
-<li>MongoDB</li>
+- Server-side rendering using EJS
+- RESTful routing and controllers
+- MongoDB database for storing listings and user data
+- Authentication and session management
+- MVC project structure
 
-<h3>Deployment</h3>
-<li>Render</li>
+#  ⚙️ Tech Stack
+- Backend: Node.js, Express.js
+- Frontend: React
+- Database: MongoDB
 
-<h3>Development Tools</h3>
-<li>Visual Studio Code</li>
-<li>Node.js</li>
-<li>Git</li>
-<li>GitHub</li>
+#  🚀 Features
+- 🌍 Browse and search stays by location
+- 📝 Integration with APIs
+- 🔒 Data storage with MongoDB
+- ⭐ Reviews and Ratings
 
-<h3>Features</h3>
-<li>User-friendly interface</li>
-<li>Integration with APIs.</li>
-<li>Responsive design for mobile and desktop users.</li>
-<li>Robust backend.</li>
-<li>Data storage with MongoDB for user portfolios, history, and more.</li>
-<li>Continuous deployment on Render.</li>
 
 <h2>Installation</h2>
 To run ChatGPT Clone locally, follow these steps:
@@ -52,14 +34,14 @@ To run ChatGPT Clone locally, follow these steps:
 
 <div class="bg-light p-3 rounded border">
   <pre class="mb-0">
-    <code>git clone https://github.com/yourusername/SigmaGPTApp.git</code></pre>
+    <code>git clone https://github.com/yourusername/yourGPTApp.git</code></pre>
 </div>
 
 <h3>2. Navigate to the project directory:</h3>
 
 <div class="bg-light p-3 rounded border">
   <pre class="mb-0">
-    <code>cd SigmaGPTApp</code></pre>
+    <code>cd yourGPTApp</code></pre>
 </div>
 <h3>3. Install the dependencies for both the frontend and backend:</h3>
 
