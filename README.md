@@ -28,7 +28,7 @@ WanderHome offers users the ability to explore and book accommodations in variou
 
 
 <h2>Installation</h2>
-To run ChatGPT Clone locally, follow these steps:
+To run yourgpt,
 
 <h3>1. Clone the repository:</h3>
 
@@ -41,7 +41,7 @@ To run ChatGPT Clone locally, follow these steps:
 
 <div class="bg-light p-3 rounded border">
   <pre class="mb-0">
-    <code>cd yourGPTApp</code></pre>
+    <code>cd yourgpt</code></pre>
 </div>
 <h3>3. Install the dependencies for both the frontend and backend:</h3>
 
