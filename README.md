@@ -86,7 +86,7 @@ For the backend:
 
 <div class="bg-light p-3 rounded border">
   <pre class="mb-0">
-    <code>nodemon server.js</code></pre>
+    <code>node server.js</code></pre>
 </div>
 For the frontend:
 
@@ -107,14 +107,6 @@ Once the application is running, you can:
 <li>See previous chats.</li>
 <li>Delete a chat.</li>
 
-<h2>Deployment</h2>
-ChatGPT Clone is deployed on Render. For deployment, ensure you have the Render CLI configured and use the following commands to deploy the application:
-
-<div class="bg-light p-3 rounded border">
-  <pre class="mb-0">
-    <code>npm run deploy</code></pre>
-</div>
-Ensure your Render credentials and services are properly set up for deployment.
 
 <h2>License</h2>
 All rights reserved.
