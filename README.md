@@ -1,5 +1,5 @@
-# WanderHome 🏡
-This is a full-stack conversational AI chatbot inspired by ChatGPT, designed to provide users with a seamless and efficient experience. This project leverages modern technologies and is scalable, flexible, and designed for real-world use cases.
+# YourGPT ֎
+YourGPT is an AI-powered chat interface built with React, designed for engaging user experiences and dynamic content rendering. It integrates the Gemini API to deliver intelligent responses, wrapped in a sleek GPT-inspired UI.
 
 # 🚀 Live Demo
 Click to view the site-> https://vaibhav-wonderhome.onrender.com
@@ -17,14 +17,16 @@ WanderHome offers users the ability to explore and book accommodations in variou
 
 #  ⚙️ Tech Stack
 - Backend: Node.js, Express.js
-- Frontend: React
-- Database: MongoDB
+- Frontend: React, CSS
+- Database: MongoDB (with optimized UUID/ObjectId schemas)
 
 #  🚀 Features
-- 🌍 Browse and search stays by location
-- 📝 Integration with APIs
-- 🔒 Data storage with MongoDB
-- ⭐ Reviews and Ratings
+- 🔮 GPT-5 API integration for smart chatbot capabilities
+- 🖋️ Animated text rendering for immersive GPT-like responses
+- 🎨 Advanced UI/UX with custom scrollbars and smooth transitions
+- 🧱 Markdown rendering with syntax highlighting via rehypeHighlight
+- 🧠 Thread-based architecture for conversational continuity
+- 🔌 RESTful API integration for seamless frontend-backend communication
 
 
 <h2>Installation</h2>
@@ -34,7 +36,7 @@ To run yourgpt,
 
 <div class="bg-light p-3 rounded border">
   <pre class="mb-0">
-    <code>git clone https://github.com/yourusername/yourGPTApp.git</code></pre>
+    <code>git clone https://github.com/yourusername/yourgpt-Project.git</code></pre>
 </div>
 
 <h3>2. Navigate to the project directory:</h3>
