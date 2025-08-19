@@ -29,62 +29,15 @@ WanderHome offers users the ability to explore and book accommodations in variou
 - 🔌 RESTful API integration for seamless frontend-backend communication
 
 
-<h2>Installation</h2>
-To run yourgpt,
+# ⚙️ Installation
 
-<h3>1. Clone the repository:</h3>
+---
 
-<div class="bg-light p-3 rounded border">
-  <pre class="mb-0">
-    <code>git clone https://github.com/yourusername/yourgpt-Project.git</code></pre>
-</div>
-
-<h3>2. Navigate to the project directory:</h3>
-
-<div class="bg-light p-3 rounded border">
-  <pre class="mb-0">
-    <code>cd yourgpt</code></pre>
-</div>
-<h3>3. Install the dependencies for both the frontend and backend:</h3>
-
-<div class="bg-light p-3 rounded border">
-  <pre class="mb-0">
-    <code>npm install</code></pre>
-</div>
-<h3>4. Set up environment variables:</h3>
-
-Create a .env file in the root directory and configure the following variables:
-
-<div class="bg-light p-3 rounded border">
-  <pre class="mb-0">
-    <code>MONGO_URI=&lt;your_mongodb_uri&gt;</code></pre>
-</div>
-<div class="bg-light p-3 rounded border">
-  <pre class="mb-0">
-    <code>OPENAI_API_KEY=&lt;your_openai_api_key&gt;</code></pre>
-</div>
-
-<h3>5. Run the development server:</h3>
-
-For the backend:
-
-<div class="bg-light p-3 rounded border">
-  <pre class="mb-0">
-    <code>node server.js</code></pre>
-</div>
-For the frontend:
-
-<div class="bg-light p-3 rounded border">
-  <pre class="mb-0">
-    <code>npm run dev</code></pre>
-</div>
-<h3>6. Open your browser and navigate to:</h3>
-
-<div class="bg-light p-3 rounded border">
-  <pre class="mb-0">
-    <code>http://localhost:5173</code></pre>
-</div>
-<h2>Usage</h2>
+```bash
+git clone [https://github.com/Kanishkgour/sigmagpt.git](https://github.com/Kanishkgour/sigmagpt.git)
+cd sigmagpt
+npm install
+```
 Once the application is running, you can:
 
 <li>Create new chat.</li>
