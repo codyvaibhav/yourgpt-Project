@@ -8,7 +8,7 @@ function SideBar() {
 
     const getAllThreads = async () => {
         try{
-            const response = await fetch("http://localhost:8080/api/thread");
+            const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/thread`);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
@@ -35,7 +35,7 @@ function SideBar() {
     const changeThread = async (newThreadId) => {
         setCurrThreadId(newThreadId);
         try{
-            const response = await fetch(`http://localhost:8080/api/thread/${newThreadId}`);
+            const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/thread/${newThreadId}`);
             const res = await response.json();
             setPrevChats(res.messages || []);
             setNewChat(false);
@@ -47,7 +47,7 @@ function SideBar() {
 
     const deleteThread = async (threadId) => {
         try{
-            const response = await fetch(`http://localhost:8080/api/thread/${threadId}`, {method: "DELETE"});
+            const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/thread/${threadId}`, {method: "DELETE"});
             const res = await response.json();
             setAllThreads(prev => prev.filter((thread) => thread.threadId !== threadId));
 
