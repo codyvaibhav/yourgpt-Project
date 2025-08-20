@@ -2,7 +2,7 @@
 YourGPT is an AI-powered chat interface built with React, designed for engaging user experiences and dynamic content rendering. It integrates the OpenAI API to deliver intelligent responses, wrapped in a sleek GPT-inspired UI.
 
 # 🚀 Live Demo
-Click to view the site-> https://vaibhav-wonderhome.onrender.com
+Click to view the site-> https://yourgpt-vaibhav.onrender.com
 
 ---
 
