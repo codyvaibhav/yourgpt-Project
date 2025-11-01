@@ -1,6 +1,8 @@
 # YourGPT ֎
 YourGPT is an AI-powered chat interface built with React, designed for engaging user experiences and dynamic content rendering. It integrates the OpenAI API to deliver intelligent responses, wrapped in a sleek GPT-inspired UI.
 
+![image alt](https://github.com/codyvaibhav/yourgpt-Project/blob/main/yourgpt_ui.png?raw=true)
+
 # 🚀 Live Demo
 Click to view the site-> https://yourgpt-vaibhav.onrender.com
 
